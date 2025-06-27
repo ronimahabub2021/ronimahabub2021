@@ -19,30 +19,27 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-
   <a href="https://www.kaggle.com/ronimahabub21" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30" />
-    <br/><sub>📊 Kaggle</sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" alt="Kaggle" height="30" width="30" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@CoreCampus" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" />
-    <br/><sub>📺 YouTube</sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30" width="30" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/md.roni.mahabub.2025/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
-    <br/><sub>📘 Facebook</sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="30" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ronimahabub/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
-    <br/><sub>💼 LinkedIn</sub>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-
 </p>
 
----
+<p align="center">
+  <a href="https://www.kaggle.com/ronimahabub21" target="_blank"><sub>📊 Kaggle</sub></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@CoreCampus" target="_blank"><sub>📺 YouTube</sub></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/md.roni.mahabub.2025/" target="_blank"><sub>📘 Facebook</sub></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ronimahabub/" target="_blank"><sub>💼 LinkedIn</sub></a>
+</p>
+
 
 ### 💻 Languages & Tools
 
