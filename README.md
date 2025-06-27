@@ -20,18 +20,19 @@
 
 <p align="center">
   <a href="https://www.kaggle.com/ronimahabub21" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" alt="Kaggle" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="30" height="30" />
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@CoreCampus" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30" width="30" />
+    <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/md.roni.mahabub.2025/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="30" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ronimahabub/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://www.kaggle.com/ronimahabub21" target="_blank"><sub>📊 Kaggle</sub></a> &nbsp;&nbsp;&nbsp;
