@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I'm <b>Roni Mahabub</b> — A Python Programmer & Data Science Enthusiast</h3>
+<h3 align="center">👋 Hi, I'm Roni Mahabub — A Python Programmer & Data Science Enthusiast</h3>
 <h4 align="center">🎓 Bachelor of Science in Computer Science and Engineering</h4>
 
 <p align="center">
@@ -9,10 +9,10 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently deep diving into <b>Data Science & Artificial Intelligence</b>  
-- 👨‍🏫 Teaching Data Science at <a href="https://www.youtube.com/@corecampus" target="_blank">Core Campus</a>  
-- 💬 Ask me anything about <i>Python, Data Science & AI</i>  
-- 📫 You can reach me at: <a href="mailto:ronimahabub2021@gmail.com">ronimahabub2021@gmail.com</a>
+- 🌱 I’m currently deep diving into **Data Science & Artificial Intelligence**  
+- 👨‍🏫 Teaching Data Science at [Core Campus](https://www.youtube.com/@corecampus)  
+- 💬 Ask me anything about **Python, Data Science & AI**  
+- 📫 You can reach me at: **ronimahabub2021@gmail.com**
 
 ---
 
@@ -68,4 +68,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronimahabub2021&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronimahabub2021&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
