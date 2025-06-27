@@ -62,7 +62,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ronimahabub2021&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronimahabub2021&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronimahabub2021&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronimahabub2021&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
