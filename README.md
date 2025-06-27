@@ -33,15 +33,6 @@
   </a>
 </p>
 
-
-<p align="center">
-  <a href="https://www.kaggle.com/ronimahabub21" target="_blank"><sub>📊 Kaggle</sub></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@CoreCampus" target="_blank"><sub>📺 YouTube</sub></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/md.roni.mahabub.2025/" target="_blank"><sub>📘 Facebook</sub></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ronimahabub/" target="_blank"><sub>💼 LinkedIn</sub></a>
-</p>
-
-
 ### 💻 Languages & Tools
 
 <p align="center">
