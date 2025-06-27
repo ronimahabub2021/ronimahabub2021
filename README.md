@@ -20,23 +20,23 @@
 
 <p align="center">
 
-  <a href="https://www.kaggle.com/ronimahabub21" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="35" />
+  <a href="https://www.kaggle.com/ronimahabub21" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30" />
     <br/><sub>📊 Kaggle</sub>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.youtube.com/@CoreCampus" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="35" width="35" />
+  <a href="https://www.youtube.com/@CoreCampus" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" />
     <br/><sub>📺 YouTube</sub>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.facebook.com/md.roni.mahabub.2025/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="35" />
+  <a href="https://www.facebook.com/md.roni.mahabub.2025/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
     <br/><sub>📘 Facebook</sub>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/ronimahabub/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
+  <a href="https://www.linkedin.com/in/ronimahabub/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
     <br/><sub>💼 LinkedIn</sub>
   </a>
 
@@ -65,6 +65,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ronimahabub2021&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronimahabub2021&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ronimahabub2021&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronimahabub2021&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
