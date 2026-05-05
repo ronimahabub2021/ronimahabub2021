@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently deep diving into **Data Science & Artificial Intelligence**  
+- 🌱 I'm currently deep diving into **Data Science & Artificial Intelligence**  
 - 👨‍🏫 Teaching Data Science at [Core Campus](https://www.youtube.com/@corecampus)  
 - 💬 Ask me anything about **Python, Data Science & AI**  
 - 📫 You can reach me at: **ronimahabub2021@gmail.com**
@@ -23,8 +23,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.roni.mahabub.2025)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CoreCampus)
 
-## 💻 AI / ML & Data Science Skills
+---
 
+## 💻 AI / ML & Data Science Skills
 
 <p align="center">
 
@@ -35,15 +36,15 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" title="TensorFlow" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50" title="OpenCV" />
 
-  <!-- Keras (via jsDelivr CDN) -->
-  <img src="https://cdn.jsdelivr.net/gh/keras-team/keras-logo/keras-logo-plain-wordmark.svg" alt="Keras" width="50" height="50" title="Keras" />
+  <!-- Keras - Fixed URL -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="50" title="Keras" />
 
   <!-- Data Handling -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" title="Pandas" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" title="NumPy" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="50" height="50" title="SQL" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="50" title="Seaborn" />
-  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="50" height="50" title="Jupyter" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50" title="Jupyter" />
 
   <!-- NLP / AI Tools -->
   <img src="https://avatars.githubusercontent.com/u/18422245?s=200&v=4" alt="NLTK" width="50" height="50" title="NLTK" />
@@ -54,15 +55,18 @@
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50" title="AWS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" title="Flask" />
 
-  <!-- Streamlit -->
-  <img src="https://cdn.jsdelivr.net/gh/streamlit/brand@main/streamlit-mark-color.svg" alt="Streamlit" width="50" height="50" title="Streamlit" />
+  <!-- Streamlit - Fixed URL -->
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="50" height="50" title="Streamlit" />
 
-  <!-- MLflow -->
-  <img src="https://cdn.jsdelivr.net/gh/mlflow/mlflow@master/docs/source/_static/mlflow-logo-final.svg" alt="MLflow" width="50" height="50" title="MLflow" />
+  <!-- MLflow - Fixed URL -->
+  <img src="https://mlflow.org/images/MLflow-logo-final-black.png" alt="MLflow" width="80" height="50" title="MLflow" />
 
   <!-- Visualization / Design -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50" title="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/plotly/plotly.js@latest/dist/plotly-logo.svg" alt="Plotly" width="50" height="50" title="Plotly" />
+
+  <!-- Plotly - Fixed URL -->
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="50" height="50" title="Plotly" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50" title="Photoshop" />
 
   <!-- IDE / Version Control -->
@@ -70,9 +74,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" title="VS Code" />
 
 </p>
-
-
-
 
 ---
 
@@ -85,8 +86,9 @@
 ---
 
 ## 🚀 Popular Repositories
+
 | Repository | Description | Language | Stars |
-|------------|------------|---------|-------|
+|------------|-------------|---------|-------|
 | [ML](https://github.com/ronimahabub2021/ML) | Total Machine Learning files | Jupyter Notebook | ★ 2 |
 | [NSDA-SUGGESTIVE-PROJECT](https://github.com/ronimahabub2021/NSDA-SUGGESTIVE-PROJECT) | Suggestive Project Files | Jupyter Notebook | ★ 2 |
 | [Book_ML](https://github.com/ronimahabub2021/Book_ML) | Machine Learning Related Books | - | ★ 1 |
@@ -94,4 +96,4 @@
 
 ---
 
-> “Keep learning, keep coding, and never stop exploring AI & Data Science!” 🚀
+> "Keep learning, keep coding, and never stop exploring AI & Data Science!" 🚀
