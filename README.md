@@ -9,15 +9,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d1117,60:161b22,100:1f6feb&height=280&section=header&text=RONI%20MAHABUB&fontSize=72&fontColor=58a6ff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Deep%20Learning%20Architect&descSize=20&descAlignY=62&descColor=8b949e&animation=fadeIn&stroke=1f6feb&strokeWidth=2" />
 
 <!-- ░░ DYNAMIC TYPING ░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=🧠+Building+Intelligent+Systems+from+Scratch;🤖+LLMs+%7C+Computer+Vision+%7C+NLP+%7C+MLOps;⚡+Turning+Raw+Data+into+AI-Powered+Products;🔬+Researcher+%7C+Engineer+%7C+Educator+%40+Core+Campus;🌍+Open+Source+AI+Contributor+from+Bangladesh" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=Building+Intelligent+Systems+from+Scratch+%F0%9F%A7%A0;LLMs+%7C+Computer+Vision+%7C+NLP+%7C+MLOps+%F0%9F%A4%96;Turning+Raw+Data+into+AI-Powered+Products+%E2%9A%A1;Researcher+%7C+Engineer+%7C+Educator+%40+Core+Campus+%F0%9F%94%AC;Open+Source+AI+Contributor+from+Bangladesh+%F0%9F%8C%8D" alt="Typing SVG" />
 
 <br/><br/>
 
 <!-- ░░ BADGES ROW ░░ -->
 <a href="https://bd.linkedin.com/in/ronimahabub/bn">
-  <img src="https://img.shields.io/badge/AI%20Engineer-Available%20for%20Hire-1f6feb?style=for-the-badge&logo=atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-Available%20for%20Hire-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Focus-LLMs%20%26%20GenAI-0d1117?style=for-the-badge&logo=openai&logoColor=58a6ff&labelColor=161b22" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-LLMs%20%26%20GenAI-161b22?style=for-the-badge&logo=openai&logoColor=white" />
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=ronimahabub2021&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
 
 </div>
