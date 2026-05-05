@@ -1,99 +1,193 @@
-<h3 align="center">👋 Hi, I'm Roni Mahabub — A Python Programmer & Data Science Enthusiast</h3>
-<h4 align="center">🎓 Bachelor of Science in Computer Science and Engineering</h4>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ronimahabub2021&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Roni%20Mahabub&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Python%20Programmer%20%7C%20Data%20Science%20%26%20AI%20Enthusiast&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=🎓+CSE+Graduate+%7C+AI+Researcher;🤖+Machine+Learning+Engineer;📊+Data+Science+Educator+@+Core+Campus;🐍+Python+Developer+%7C+Open+Source" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ronimahabub2021&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ronimahabub2021?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
 </p>
 
----
-
-### 🚀 About Me
-
-- 🌱 I'm currently deep diving into **Data Science & Artificial Intelligence**  
-- 👨‍🏫 Teaching Data Science at [Core Campus](https://www.youtube.com/@corecampus)  
-- 💬 Ask me anything about **Python, Data Science & AI**  
-- 📫 You can reach me at: **ronimahabub2021@gmail.com**
+</div>
 
 ---
 
-### 🌐 Connect With Me
+## 🧬 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/ronimahabub/bn)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ronimahabub21)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.roni.mahabub.2025)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CoreCampus)
+```python
+class RoniMahabub:
+    def __init__(self):
+        self.name         = "Roni Mahabub"
+        self.role         = "Python Programmer & Data Science Enthusiast"
+        self.education    = "BSc in Computer Science & Engineering"
+        self.teaching     = "Data Science @ Core Campus (YouTube)"
+        self.location     = "Bangladesh 🇧🇩"
+        self.email        = "ronimahabub2021@gmail.com"
 
----
+    def current_focus(self):
+        return [
+            "📚 Deep diving into Data Science & Artificial Intelligence",
+            "🧠 Building ML models for real-world problems",
+            "🎓 Teaching & mentoring aspiring Data Scientists",
+            "🔬 Exploring NLP, Computer Vision & MLOps",
+        ]
 
-## 💻 AI / ML & Data Science Skills
+    def ask_me_about(self):
+        return ["Python", "Data Science", "Machine Learning", "AI", "Deep Learning"]
 
-<p align="center">
-
-  <!-- Core Programming & AI/ML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50" title="Scikit-learn" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50" title="PyTorch" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" title="TensorFlow" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50" title="OpenCV" />
-
-  <!-- Keras - Fixed URL -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="50" title="Keras" />
-
-  <!-- Data Handling -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" title="Pandas" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" title="NumPy" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="50" height="50" title="SQL" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="50" title="Seaborn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50" title="Jupyter" />
-
-  <!-- NLP / AI Tools -->
-  <img src="https://avatars.githubusercontent.com/u/18422245?s=200&v=4" alt="NLTK" width="50" height="50" title="NLTK" />
-  <img src="https://spacy.io/static/img/logo-black.svg" alt="spaCy" width="50" height="50" title="spaCy" />
-
-  <!-- Deployment / Web / Cloud -->
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50" title="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50" title="AWS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" title="Flask" />
-
-  <!-- Streamlit - Fixed URL -->
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="50" height="50" title="Streamlit" />
-
-  <!-- MLflow - Fixed URL -->
-  <img src="https://mlflow.org/images/MLflow-logo-final-black.png" alt="MLflow" width="80" height="50" title="MLflow" />
-
-  <!-- Visualization / Design -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50" title="Matplotlib" />
-
-  <!-- Plotly - Fixed URL -->
-  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="50" height="50" title="Plotly" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50" title="Photoshop" />
-
-  <!-- IDE / Version Control -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" title="VS Code" />
-
-</p>
+me = RoniMahabub()
+```
 
 ---
 
-### 📊 GitHub Stats & Streak
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronimahabub2021&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/ronimahabub/bn)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ronimahabub21)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CoreCampus)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.roni.mahabub.2025)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronimahabub2021@gmail.com)
 
-## 🚀 Popular Repositories
-
-| Repository | Description | Language | Stars |
-|------------|-------------|---------|-------|
-| [ML](https://github.com/ronimahabub2021/ML) | Total Machine Learning files | Jupyter Notebook | ★ 2 |
-| [NSDA-SUGGESTIVE-PROJECT](https://github.com/ronimahabub2021/NSDA-SUGGESTIVE-PROJECT) | Suggestive Project Files | Jupyter Notebook | ★ 2 |
-| [Book_ML](https://github.com/ronimahabub2021/Book_ML) | Machine Learning Related Books | - | ★ 1 |
-| [ML_Model_Deployment](https://github.com/ronimahabub2021/ML_Model_Deployment) | Deploy Machine Learning model | HTML | ★ 1 |
+</div>
 
 ---
 
-> "Keep learning, keep coding, and never stop exploring AI & Data Science!" 🚀
+## 🛠️ Tech Stack & Skills
+
+### 🧠 AI / Machine Learning / Deep Learning
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
+
+### 📊 Data Science & Analysis
+
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+### 🗣️ NLP & Text Analytics
+
+<div align="center">
+
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+</div>
+
+### 🚀 Deployment & MLOps
+
+<div align="center">
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+### 🔧 Tools & IDEs
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ronimahabub2021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ronimahabub2021&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronimahabub2021&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ronimahabub2021&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🗂️ Project | 📝 Description | 🔤 Language | ⭐ Stars |
+|:-----------|:--------------|:-----------:|:--------:|
+| [🤖 ML](https://github.com/ronimahabub2021/ML) | Complete Machine Learning Repository | Jupyter Notebook | ★ 2 |
+| [📊 NSDA Suggestive Project](https://github.com/ronimahabub2021/NSDA-SUGGESTIVE-PROJECT) | Data-driven Suggestive Project | Jupyter Notebook | ★ 2 |
+| [📚 Book ML](https://github.com/ronimahabub2021/Book_ML) | Machine Learning Reference Books | — | ★ 1 |
+| [🌐 ML Model Deployment](https://github.com/ronimahabub2021/ML_Model_Deployment) | End-to-End ML Model Deployment | HTML | ★ 1 |
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronimahabub2021&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 💡 Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Keep+Learning+%7C+Keep+Coding+%7C+Never+Stop+Exploring+AI&fontSize=16&fontColor=a8d8ea&fontAlignY=65" />
+
+</div>
